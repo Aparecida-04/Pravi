@@ -3,14 +3,14 @@
 Pravi é um aplicativo que ajuda famílias e indivíduos a monitorar a validade dos alimentos, reduzir desperdícios e promover o consumo consciente.  
 Este repositório contém a documentação técnica e funcional do sistema.
 
-## 🌱 Objetivos
+## Objetivos
 
 - Reduzir o desperdício de alimentos
 - Organizar e planejar o consumo doméstico
 - Promover práticas sustentáveis
 - Informar sobre conservação de alimentos
 
-## 🚀 Tecnologias
+## Tecnologias
 
 - **Frontend**: React JS  
 - **Backend**: Java + Spring  
@@ -23,7 +23,7 @@ Este repositório contém a documentação técnica e funcional do sistema.
 - **Gerenciamento de tarefas**: Trello / Jira  
 - **Hospedagem**: AWS / Render / Heroku
 
-## 📦 Estrutura
+## Estrutura
 
 - [`requirements.md`](requirements.md): Levantamento e refinamento de requisitos
 - [`backlog.md`](backlog.md): Backlog completo com histórias de usuário
